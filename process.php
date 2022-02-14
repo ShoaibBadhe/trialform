@@ -13,7 +13,7 @@
        }
        else
        {
-           $to = "admin@onlineittuts.com";
+           $to = "shoaib.badhe9111@gmail.com";
 
            if(mail($to,$Subject,$Msg,$Email))
            {
